@@ -2,7 +2,7 @@ Hi, I'm interested in backend developer. Currently leanring spring framework and
 
 
 ## Get in touch
-- Resume: https://twitter.com/katfukui
+- Resume: https://www.notion.so/4bd77bdb726845e9925061ed58640426
 - Blog: https://jayfreemandev.wordpress.com/
 - Linkedin: https://www.linkedin.com/in/jayfreemandev/
 
