@@ -1,5 +1,9 @@
 Hi, I'm interested in backend developer. Currently leanring spring framework and Java
 
+<details>
+  <summary><b>:skull: 2021 goal</b></summary>
+Get a job, adjust with good team and self developing myself!
+</details>
 
 ## Get in touch
 - Resume: https://www.notion.so/4bd77bdb726845e9925061ed58640426
