@@ -2,7 +2,7 @@ Hi, I'm interested in backend developer. Currently leanring spring framework and
 
 <details>
   <summary><b>:skull: 2021 goal</b></summary>
-Get a job, adjust with good team and self developing myself!
+Get a job
 </details>
 
 
