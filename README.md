@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Efficiency and Readable Clean Code**
 
 <h3 align="center">Language</h3>
-
+<p align="center">I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times. Bruce Lee</p>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/72185011/158189389-6d6cf2e9-f001-4f40-9d3c-54af4fc811bc.png" alt="java" width="40" height="40"/> 
