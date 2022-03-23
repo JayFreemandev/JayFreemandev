@@ -302,8 +302,8 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
-    <img src="https://user-images.githubusercontent.com/72185011/158069892-6e934f84-7b65-460e-95ce-10a303c3478d.png"></img>
+    <rect width="500" height="500" rx="18.0355" class="bubble" />
+    <image width="500" height="350" xlink:href="https://user-images.githubusercontent.com/72185011/158069892-6e934f84-7b65-460e-95ce-10a303c3478d.png"/>
   </g>
 
   <!-- typing 5 -->
