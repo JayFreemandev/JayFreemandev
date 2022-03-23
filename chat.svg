@@ -303,7 +303,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="500" height="500" rx="18.0355" class="bubble" />
-    <image width="500" height="350" xlink:href="https://user-images.githubusercontent.com/72185011/158069892-6e934f84-7b65-460e-95ce-10a303c3478d.png"/>
+    <text x="15" y="27">Stay safe on this pandemic!</text>
   </g>
 
   <!-- typing 5 -->
@@ -327,7 +327,6 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="255" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Stay safe on this pandemic!</text>
     <text x="15" y="47">Have a great Wednesday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
