@@ -3,7 +3,7 @@
 
 ![message_svg](https://github.com/JayFreemandev/JayFreemandev/blob/main/chat.svg)
 
-- 🔭 I’m currently working on **Cryptocurrency Exchange**  
+- 🔭 Interested in **Cryptocurrency Exchanges**  
 ![image](https://user-images.githubusercontent.com/72185011/158069892-6e934f84-7b65-460e-95ce-10a303c3478d.png)
 ![image](https://user-images.githubusercontent.com/72185011/158069930-5efbbe70-26b2-49e9-a840-3a44d0251f85.png)
 ![image](https://user-images.githubusercontent.com/72185011/158069979-bde3d982-7875-412e-90d2-1026811aecc4.png)
