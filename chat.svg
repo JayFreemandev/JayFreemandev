@@ -277,9 +277,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m eager to challenge new things!</text>
-    <text x="15" y="50">Currently, Working as Backend developer on crypto field.</text>
+    <text x="15" y="50">Currently, Wokring as Backend developer on crypto field</text>
   </g>
 
   <!-- typing 4 -->
@@ -302,11 +302,8 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
-    <imgage x="15" y="27">
-      You can find me on
-      <a xlink:href="https://abit.ly/jypthemiracle">https://abit.ly/jypthemiracle</a>
-    </text>
+    <rect width="500" height="500" rx="18.0355" class="bubble" />
+    <image width="500" height="350" xlink:href="https://user-images.githubusercontent.com/72185011/158069892-6e934f84-7b65-460e-95ce-10a303c3478d.png"/>
   </g>
 
   <!-- typing 5 -->
