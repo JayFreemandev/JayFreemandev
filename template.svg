@@ -302,7 +302,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="500" height="500" rx="18.0355" class="bubble" />
+    <rect width="255" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Stay safe on this pandemic!</text>
   </g>
 
