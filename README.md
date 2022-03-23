@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-![message_svg](https://github.com/JayFreemandev/JayFreemandev/blob/master/chat.svg)
+![message_svg](https://github.com/JayFreemandev/JayFreemandev/blob/main/chat.svg)
 
 - 🔭 I’m currently working on **Cryptocurrency Exchange**  
 ![image](https://user-images.githubusercontent.com/72185011/158069892-6e934f84-7b65-460e-95ce-10a303c3478d.png)
