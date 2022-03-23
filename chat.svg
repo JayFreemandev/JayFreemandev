@@ -275,9 +275,8 @@
 
   </g>
 
-  <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m eager to challenge new things!</text>
     <text x="15" y="27">Currently, Working as Backend developer on crypto field.</text>
   </g>
