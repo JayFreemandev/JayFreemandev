@@ -3,16 +3,7 @@
 
 ![message_svg](https://github.com/JayFreemandev/JayFreemandev/blob/main/chat.svg)
 
-- 🔭 Interested in **Cryptocurrency Exchanges**  
-![image](https://user-images.githubusercontent.com/72185011/158069892-6e934f84-7b65-460e-95ce-10a303c3478d.png)
-![image](https://user-images.githubusercontent.com/72185011/158069930-5efbbe70-26b2-49e9-a840-3a44d0251f85.png)
-![image](https://user-images.githubusercontent.com/72185011/158069979-bde3d982-7875-412e-90d2-1026811aecc4.png)
-![image](https://user-images.githubusercontent.com/72185011/158070003-0a3f3f4f-97d6-4563-a7e3-ebe0663b63c0.png)  
-![image](https://user-images.githubusercontent.com/72185011/158070053-6328b44e-ba4b-43fd-ad9b-5e91fcebec73.png)
-![image](https://user-images.githubusercontent.com/72185011/158070084-fd5c4ca5-065e-4929-8c7b-5fbb7593e12b.png)
-![image](https://user-images.githubusercontent.com/72185011/158070138-0035cf70-d82c-4739-9481-7cbd785178d5.png)
-![image](https://user-images.githubusercontent.com/72185011/158070195-62d67ec2-b106-443c-a1f3-4159c6943b75.png)
-- 🌱 I’m currently learning **Efficiency and Readable Clean Code**
+- 🔭 Interested in **Efficiency and Readable Clean Code**  
 
 <h3 align="center">Language</h3>
 <p align="center">I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times. Bruce Lee</p>
