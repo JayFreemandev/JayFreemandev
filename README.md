@@ -1,7 +1,4 @@
 <h1 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Backend Developer</h3>
-
-![message_svg](https://github.com/JayFreemandev/JayFreemandev/blob/main/chat.svg)
 
 - 🔭 Interested in **Efficiency and Readable Clean Code**  
 
