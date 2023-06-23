@@ -12,7 +12,7 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JayFreemandev&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayFreemandev&theme=react&layout=compact" />
+  <img height= "150" src="https://leetcard.jacoblin.cool/JayFreemandev?theme=unicorn">
 </p>
 
 ![snake svg](https://github.com/JayFreemandev/JayFreemandev/blob/output/github-contribution-grid-snake.svg)
