@@ -19,6 +19,9 @@ Empyrial is designed for financial institutions and retail investors, gaining ra
 This repo is for sharing resources in finance and technology.  
 books and videos to code, for learners eager to explore the depths of quantitative finance and technology.
 
+### 💼 Experience
+crypto exchange - Software Engineer
+
 <!-- <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JayFreemandev&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://leetcard.jacoblin.cool/JayFreemandev?theme=unicorn">
