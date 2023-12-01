@@ -1,4 +1,4 @@
-<h1 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"><img height="40" src="https://cdn3.emoji.gg/emojis/8443-mcrlogo.gif"></h1>
 
 ### 🔭 What I'm Interested In
 - Designing and implementing scalable and maintainable architectures.
