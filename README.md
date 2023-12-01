@@ -1,8 +1,11 @@
 <h1 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-- 🔭 Interested in **Efficiency and Readable Clean Code**  
+### 🔭 What I'm Interested In
+- Designing and implementing scalable and maintainable architectures.
+- Developing clean and readable code for efficient software solutions.
+- Applying mathematical analysis to solve complex problems.
 
-<h3 align="center">Language</h3>
+### Language
 <p align="center">I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times. Bruce Lee</p>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
