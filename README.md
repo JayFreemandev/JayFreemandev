@@ -16,8 +16,8 @@ Empyrial is designed for financial institutions and retail investors, gaining ra
 
 ### 📚 Deepening Domain Knowledge
 [![QuantBeaver](https://github-readme-stats.vercel.app/api/pin/?username=JayFreemandev&repo=Happy-Quant-Journey)](https://github.com/quant-beaver)  
-This repo is for sharing resources in finance and technology.  
-books and videos to code, for learners eager to explore the depths of quantitative finance and technology.
+This repo is for sharing resources in quant ecosystem especially python.
+many books and videos to code, for learners eager to explore the depths of quantitative finance and technology.
 
 ### 💼 Experience
 crypto exchange - Software Engineer
