@@ -20,7 +20,8 @@ This repo is for sharing resources in quant ecosystem especially python.
 many books and videos to code, for learners eager to explore the depths of quantitative finance and technology.
 
 ### 💼 Experience
-crypto exchange - Software Engineer
+- Software Engineer (Oct 2023 ~ Present)
+- crypto exchange - Software Engineer (Jan 2022 ~ June 2023)
 
 <!-- <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JayFreemandev&theme=react&show_icons=true&include_all_commits=true" />
