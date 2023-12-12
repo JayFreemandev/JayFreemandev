@@ -6,15 +6,14 @@
 - Applying mathematical analysis to solve complex problems.
 
 ### 🌐 Open Source Contributions
-**Empyrial - A Quantitative Investment Library**  
-I'm actively contributing to [Empyrial](https://github.com/empyrial-quant/empyrial),   
-Empyrial is designed for financial institutions and retail investors, gaining rapid popularity in the finance industry.
-- **Engine (backtesting + performance analysis):**
-- **Rebalancing:**
-- **Risk manager:** 
+- **[QuantStats - Portfolio analytics](https://github.com/ranaroussi/quantstats)**  
+QuantStats is one of best with in-depth **performance analytics** and **risk metrics**
+
+- **[Pysystemtrade - Backtest](https://github.com/robcarver17/pysystemtrade)**   
+Pysystemtrade is **backtesting** and trading engine provide the driving force that ensures I never cease to learn. 
 
 
-### 📚 Deepening Domain Knowledge
+### 📚 Deep Domain Knowledge
 [![QuantBeaver](https://github-readme-stats.vercel.app/api/pin/?username=JayFreemandev&repo=Happy-Quant-Journey)](https://github.com/quant-beaver)  
 This repo is for sharing resources in quant ecosystem especially python.  
 many books and videos to code, for learners eager to explore the depths of quantitative finance and technology.
