@@ -5,7 +5,7 @@
 - Developing clean and readable code for efficient software solutions.
 - Applying mathematical analysis to solve complex problems.
 
-### 🌐 Open Source Contributions
+### 🌐 Current Open Source Interests
 - **[QuantStats - Portfolio analytics](https://github.com/ranaroussi/quantstats)**  
 QuantStats is one of best with in-depth **performance analytics** and **risk metrics**
 
