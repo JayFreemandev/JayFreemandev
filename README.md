@@ -14,9 +14,9 @@ Pysystemtrade is **backtesting** and trading engine provide the driving force th
 
 
 ### 📚 Deep Domain Knowledge
-[![QuantBeaver](https://github-readme-stats.vercel.app/api/pin/?username=JayFreemandev&repo=Happy-Quant-Journey)](https://github.com/quant-beaver)  
-This repo is for sharing resources in quant ecosystem especially python.  
-many books and videos to code, for learners eager to explore the depths of quantitative finance and technology.
+[![QuantBeaver](https://github-readme-stats.vercel.app/api/pin/?username=quant-beaver&repo=Happy-Math-Journey)](https://github.com/quant-beaver)  
+This repo is for sharing resources in quant ecosystem.  
+Many books and videos to code, for learners to explore the depths of quantitative finance and technology.
 
 ### 💼 Experience
 - Software Engineer (Oct 2023 ~ Present)
