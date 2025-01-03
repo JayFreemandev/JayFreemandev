@@ -7,7 +7,7 @@
 
 ### 💼 Experience
 - Software Engineer (Oct 2023 ~ Present)
-- crypto exchange - Software Engineer (2022 ~ June 2023)
+- crypto exchange - Software Engineer (Jan 2022 ~ June 2023)
 
 <!-- <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JayFreemandev&theme=react&show_icons=true&include_all_commits=true" />
