@@ -6,8 +6,8 @@
 - Applying mathematical analysis to solve complex problems.
 
 ### 💼 Experience
-- Software Engineer (Oct 2023 ~ Present)
-- crypto exchange - Software Engineer (2022 ~ June 2023)
+- Software Engineer (2023.10 ~ Present)
+- Crypto Exchange - Software Engineer (2022.01 ~ 2023.06)
 
 <!-- <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JayFreemandev&theme=react&show_icons=true&include_all_commits=true" />
